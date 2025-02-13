@@ -1,0 +1,4 @@
+﻿  cin.cpp
+D:\c++\c++\cin\cin\cin.cpp(16,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\c++\c++\cin\cin\cin.cpp(17,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  cin.vcxproj -> D:\c++\c++\cin\x64\Debug\cin.exe
